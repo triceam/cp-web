@@ -7,7 +7,7 @@
 cc_summaries/*.json
 
 # hfc SDK credential storage
-**/keyValStore
+# **/keyValStore
 
 # CSS is built at runtime from SCSS
 **/public/css/*.css
